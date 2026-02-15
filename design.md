@@ -1,4 +1,4 @@
-FutureSelf AI - System Design
+**FutureSelf AI - System Design**
 
 **1. High-Level Architecture**
 
